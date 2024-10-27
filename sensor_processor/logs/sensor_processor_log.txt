@@ -1,0 +1,923 @@
+[2024-10-22 1:26:0] Invalid accelerometer data.
+[2024-10-22 1:26:0] Invalid gyro data.
+[2024-10-22 1:26:1] Invalid accelerometer data.
+[2024-10-22 1:26:1] Invalid gyro data.
+[2024-10-22 1:26:1] OBSTACLE DETECTED
+[2024-10-22 1:26:2] Invalid accelerometer data.
+[2024-10-22 1:26:2] Invalid gyro data.
+[2024-10-22 1:26:3] Invalid accelerometer data.
+[2024-10-22 1:26:3] OBSTACLE DETECTED
+[2024-10-22 1:26:3] Invalid gyro data.
+[2024-10-22 1:26:4] Invalid accelerometer data.
+[2024-10-22 1:26:4] Invalid gyro data.
+[2024-10-22 1:26:4] OBSTACLE DETECTED
+[2024-10-22 1:26:5] Invalid accelerometer data.
+[2024-10-22 1:26:5] Invalid gyro data.
+[2024-10-22 1:26:5] OBSTACLE DETECTED
+[2024-10-22 1:26:6] Invalid accelerometer data.
+[2024-10-22 1:26:6] Invalid gyro data.
+[2024-10-22 1:26:6] OBSTACLE DETECTED
+[2024-10-22 1:26:7] Invalid accelerometer data.
+[2024-10-22 1:26:7] Invalid gyro data.
+[2024-10-22 1:26:8] Invalid accelerometer data.
+[2024-10-22 1:26:8] OBSTACLE DETECTED
+[2024-10-22 1:26:8] Invalid gyro data.
+[2024-10-22 1:26:9] Invalid accelerometer data.
+[2024-10-22 1:26:9] Invalid gyro data.
+[2024-10-22 1:26:9] OBSTACLE DETECTED
+[2024-10-22 1:26:10] Invalid accelerometer data.
+[2024-10-22 1:26:10] Invalid gyro data.
+[2024-10-22 1:26:11] Invalid accelerometer data.
+[2024-10-22 1:26:11] OBSTACLE DETECTED
+[2024-10-22 1:26:11] Invalid gyro data.
+[2024-10-22 1:26:12] Invalid accelerometer data.
+[2024-10-22 1:26:12] OBSTACLE DETECTED
+[2024-10-22 1:26:12] Invalid gyro data.
+[2024-10-22 1:26:13] Invalid accelerometer data.
+[2024-10-22 1:26:13] Invalid gyro data.
+[2024-10-22 1:26:14] Invalid accelerometer data.
+[2024-10-22 1:26:14] Invalid gyro data.
+[2024-10-22 1:26:15] Invalid accelerometer data.
+[2024-10-22 1:26:15] OBSTACLE DETECTED
+[2024-10-22 1:26:15] Invalid gyro data.
+[2024-10-22 1:26:16] Invalid accelerometer data.
+[2024-10-22 1:26:16] OBSTACLE DETECTED
+[2024-10-22 1:26:16] Invalid gyro data.
+[2024-10-22 1:26:17] Invalid accelerometer data.
+[2024-10-22 1:26:17] OBSTACLE DETECTED
+[2024-10-22 1:26:17] Invalid gyro data.
+[2024-10-22 1:26:18] Invalid accelerometer data.
+[2024-10-22 1:26:18] OBSTACLE DETECTED
+[2024-10-22 1:26:18] Invalid gyro data.
+[2024-10-22 1:26:19] Invalid accelerometer data.
+[2024-10-22 1:26:19] OBSTACLE DETECTED
+[2024-10-22 1:26:19] Invalid gyro data.
+[2024-10-22 1:26:20] Invalid accelerometer data.
+[2024-10-22 1:26:20] Invalid gyro data.
+[2024-10-22 1:26:21] Invalid accelerometer data.
+[2024-10-22 1:26:21] OBSTACLE DETECTED
+[2024-10-22 1:26:21] Invalid gyro data.
+[2024-10-22 1:26:23] Invalid accelerometer data.
+[2024-10-22 1:26:23] OBSTACLE DETECTED
+[2024-10-22 1:26:23] Invalid gyro data.
+[2024-10-22 1:26:23] Invalid accelerometer data.
+[2024-10-22 1:26:23] Invalid gyro data.
+[2024-10-22 1:26:24] Invalid accelerometer data.
+[2024-10-22 1:26:24] OBSTACLE DETECTED
+[2024-10-22 1:26:24] Invalid gyro data.
+[2024-10-22 1:26:25] Invalid accelerometer data.
+[2024-10-22 1:26:25] Invalid gyro data.
+[2024-10-22 1:26:26] Invalid accelerometer data.
+[2024-10-22 1:26:26] Invalid gyro data.
+[2024-10-22 1:26:27] Invalid accelerometer data.
+[2024-10-22 1:26:27] Invalid gyro data.
+[2024-10-22 1:26:27] OBSTACLE DETECTED
+[2024-10-22 1:26:28] Invalid accelerometer data.
+[2024-10-22 1:26:28] OBSTACLE DETECTED
+[2024-10-22 1:26:28] Invalid gyro data.
+[2024-10-22 1:26:29] Invalid accelerometer data.
+[2024-10-22 1:26:29] Invalid gyro data.
+[2024-10-22 1:26:30] Invalid accelerometer data.
+[2024-10-22 1:26:30] Invalid gyro data.
+[2024-10-22 1:26:31] Invalid accelerometer data.
+[2024-10-22 1:26:31] Invalid gyro data.
+[2024-10-22 1:26:32] Invalid accelerometer data.
+[2024-10-22 1:26:32] Invalid gyro data.
+[2024-10-22 1:26:33] Invalid accelerometer data.
+[2024-10-22 1:26:33] Invalid gyro data.
+[2024-10-22 1:26:34] Invalid accelerometer data.
+[2024-10-22 1:26:34] Invalid gyro data.
+[2024-10-22 1:26:34] OBSTACLE DETECTED
+[2024-10-22 1:26:35] Invalid accelerometer data.
+[2024-10-22 1:26:35] OBSTACLE DETECTED
+[2024-10-22 1:26:35] Invalid gyro data.
+[2024-10-22 1:26:36] Invalid accelerometer data.
+[2024-10-22 1:26:36] Invalid gyro data.
+[2024-10-22 1:26:37] Invalid accelerometer data.
+[2024-10-22 1:26:37] OBSTACLE DETECTED
+[2024-10-22 1:26:37] Invalid gyro data.
+[2024-10-22 1:26:38] Invalid accelerometer data.
+[2024-10-22 1:26:38] Invalid gyro data.
+[2024-10-22 1:26:39] Invalid accelerometer data.
+[2024-10-22 1:26:39] Invalid gyro data.
+[2024-10-22 1:26:40] Invalid accelerometer data.
+[2024-10-22 1:26:40] Invalid gyro data.
+[2024-10-22 1:26:41] Invalid accelerometer data.
+[2024-10-22 1:26:41] Invalid gyro data.
+[2024-10-22 1:26:42] Invalid accelerometer data.
+[2024-10-22 1:26:42] Invalid gyro data.
+[2024-10-22 1:26:42] BRAKE applied by manual command.
+[2024-10-22 1:26:50] Forward command received.
+[2024-10-22 1:26:51] Invalid accelerometer data.
+[2024-10-22 1:26:51] OBSTACLE DETECTED
+[2024-10-22 1:26:51] Invalid gyro data.
+[2024-10-22 1:26:52] Invalid accelerometer data.
+[2024-10-22 1:26:52] OBSTACLE DETECTED
+[2024-10-22 1:26:52] Invalid gyro data.
+[2024-10-22 1:26:53] Invalid accelerometer data.
+[2024-10-22 1:26:53] Invalid gyro data.
+[2024-10-22 1:26:54] Invalid accelerometer data.
+[2024-10-22 1:26:54] Invalid gyro data.
+[2024-10-22 1:26:55] Invalid accelerometer data.
+[2024-10-22 1:26:55] Invalid gyro data.
+[2024-10-22 1:26:56] Invalid accelerometer data.
+[2024-10-22 1:26:56] Invalid gyro data.
+[2024-10-22 1:26:57] Invalid accelerometer data.
+[2024-10-22 1:26:57] Invalid gyro data.
+[2024-10-22 1:26:58] Invalid accelerometer data.
+[2024-10-22 1:26:58] Invalid gyro data.
+[2024-10-22 1:26:58] OBSTACLE DETECTED
+[2024-10-22 1:26:59] Invalid accelerometer data.
+[2024-10-22 1:26:59] OBSTACLE DETECTED
+[2024-10-22 1:26:59] Invalid gyro data.
+[2024-10-22 1:27:0] Invalid accelerometer data.
+[2024-10-22 1:27:0] Invalid gyro data.
+[2024-10-22 1:27:1] Invalid accelerometer data.
+[2024-10-22 1:27:1] OBSTACLE DETECTED
+[2024-10-22 1:27:1] Invalid gyro data.
+[2024-10-22 1:27:2] Invalid accelerometer data.
+[2024-10-22 1:27:2] Invalid gyro data.
+[2024-10-22 1:27:3] Invalid accelerometer data.
+[2024-10-22 1:27:3] Invalid gyro data.
+[2024-10-22 1:27:4] Invalid accelerometer data.
+[2024-10-22 1:27:4] Invalid gyro data.
+[2024-10-22 1:27:4] OBSTACLE DETECTED
+[2024-10-22 1:31:42] Invalid accelerometer data.
+[2024-10-22 1:31:42] Invalid gyro data.
+[2024-10-22 1:31:43] OBSTACLE DETECTED
+[2024-10-22 1:31:43] Invalid accelerometer data.
+[2024-10-22 1:31:43] Invalid gyro data.
+[2024-10-22 1:31:44] Invalid accelerometer data.
+[2024-10-22 1:31:44] Invalid gyro data.
+[2024-10-22 1:32:12] Invalid gyro data.
+[2024-10-22 1:32:12] Invalid accelerometer data.
+[2024-10-22 1:32:13] OBSTACLE DETECTED
+[2024-10-22 1:32:13] Invalid accelerometer data.
+[2024-10-22 1:32:13] Invalid gyro data.
+[2024-10-22 1:32:14] Invalid gyro data.
+[2024-10-22 1:32:14] Invalid accelerometer data.
+[2024-10-22 1:32:15] Invalid accelerometer data.
+[2024-10-22 1:32:15] Invalid gyro data.
+[2024-10-22 1:32:15] OBSTACLE DETECTED
+[2024-10-22 1:32:16] OBSTACLE DETECTED
+[2024-10-22 1:32:16] Invalid accelerometer data.
+[2024-10-22 1:32:16] Invalid gyro data.
+[2024-10-22 1:32:17] Invalid gyro data.
+[2024-10-22 1:32:17] OBSTACLE DETECTED
+[2024-10-22 1:32:17] Invalid accelerometer data.
+[2024-10-22 1:32:18] Invalid gyro data.
+[2024-10-22 1:32:18] OBSTACLE DETECTED
+[2024-10-22 1:32:18] Invalid accelerometer data.
+[2024-10-22 1:32:19] Invalid gyro data.
+[2024-10-22 1:32:19] Invalid accelerometer data.
+[2024-10-22 1:32:21] OBSTACLE DETECTED
+[2024-10-22 1:32:21] Invalid accelerometer data.
+[2024-10-22 1:32:21] Invalid gyro data.
+[2024-10-22 1:32:21] Invalid gyro data.
+[2024-10-22 1:32:21] Invalid accelerometer data.
+[2024-10-22 1:32:21] OBSTACLE DETECTED
+[2024-10-22 1:32:22] Invalid gyro data.
+[2024-10-22 1:32:22] Invalid accelerometer data.
+[2024-10-22 1:32:23] OBSTACLE DETECTED
+[2024-10-22 1:32:23] Invalid gyro data.
+[2024-10-22 1:32:23] Invalid accelerometer data.
+[2024-10-22 1:32:24] OBSTACLE DETECTED
+[2024-10-22 1:32:24] Invalid gyro data.
+[2024-10-22 1:32:24] Invalid accelerometer data.
+[2024-10-22 1:32:25] Invalid gyro data.
+[2024-10-22 1:32:25] Invalid accelerometer data.
+[2024-10-22 1:32:26] Invalid gyro data.
+[2024-10-22 1:32:26] Invalid accelerometer data.
+[2024-10-22 1:32:27] OBSTACLE DETECTED
+[2024-10-22 1:32:27] Invalid gyro data.
+[2024-10-22 1:32:27] Invalid accelerometer data.
+[2024-10-22 1:32:28] Invalid gyro data.
+[2024-10-22 1:32:28] OBSTACLE DETECTED
+[2024-10-22 1:32:28] Invalid accelerometer data.
+[2024-10-22 1:32:29] Invalid gyro data.
+[2024-10-22 1:32:29] OBSTACLE DETECTED
+[2024-10-22 1:32:29] Invalid accelerometer data.
+[2024-10-22 1:32:30] Invalid gyro data.
+[2024-10-22 1:32:30] OBSTACLE DETECTED
+[2024-10-22 1:32:30] Invalid accelerometer data.
+[2024-10-22 1:32:31] Invalid gyro data.
+[2024-10-22 1:32:31] OBSTACLE DETECTED
+[2024-10-22 1:32:31] Invalid accelerometer data.
+[2024-10-22 1:32:32] Invalid gyro data.
+[2024-10-22 1:32:32] Invalid accelerometer data.
+[2024-10-22 1:32:33] OBSTACLE DETECTED
+[2024-10-22 1:32:33] Invalid gyro data.
+[2024-10-22 1:32:33] Invalid accelerometer data.
+[2024-10-22 1:32:34] Invalid gyro data.
+[2024-10-22 1:32:34] OBSTACLE DETECTED
+[2024-10-22 1:32:34] Invalid accelerometer data.
+[2024-10-22 1:32:35] Invalid accelerometer data.
+[2024-10-22 1:32:35] Invalid gyro data.
+[2024-10-22 1:32:36] OBSTACLE DETECTED
+[2024-10-22 1:32:36] Invalid gyro data.
+[2024-10-22 1:32:36] Invalid accelerometer data.
+[2024-10-22 1:32:37] Invalid gyro data.
+[2024-10-22 1:32:37] Invalid accelerometer data.
+[2024-10-22 1:32:38] Invalid gyro data.
+[2024-10-22 1:32:38] Invalid accelerometer data.
+[2024-10-22 1:32:39] Invalid gyro data.
+[2024-10-22 1:32:39] Invalid accelerometer data.
+[2024-10-22 1:32:39] OBSTACLE DETECTED
+[2024-10-22 1:32:40] Invalid accelerometer data.
+[2024-10-22 1:32:40] Invalid gyro data.
+[2024-10-22 1:32:40] OBSTACLE DETECTED
+[2024-10-22 1:32:41] Invalid gyro data.
+[2024-10-22 1:32:41] Invalid accelerometer data.
+[2024-10-22 1:32:42] Invalid gyro data.
+[2024-10-22 1:32:42] Invalid accelerometer data.
+[2024-10-22 1:32:43] Invalid accelerometer data.
+[2024-10-22 1:32:43] Invalid gyro data.
+[2024-10-22 1:32:44] Invalid accelerometer data.
+[2024-10-22 1:32:44] Invalid gyro data.
+[2024-10-22 1:32:45] Invalid gyro data.
+[2024-10-22 1:32:45] Invalid accelerometer data.
+[2024-10-22 1:32:46] OBSTACLE DETECTED
+[2024-10-22 1:32:46] Invalid gyro data.
+[2024-10-22 1:32:46] Invalid accelerometer data.
+[2024-10-22 1:32:47] Invalid gyro data.
+[2024-10-22 1:32:47] OBSTACLE DETECTED
+[2024-10-22 1:32:47] Invalid accelerometer data.
+[2024-10-22 1:32:48] Invalid gyro data.
+[2024-10-22 1:32:48] Invalid accelerometer data.
+[2024-10-22 1:32:49] OBSTACLE DETECTED
+[2024-10-22 1:32:49] Invalid gyro data.
+[2024-10-22 1:32:49] Invalid accelerometer data.
+[2024-10-22 1:32:50] Invalid gyro data.
+[2024-10-22 1:32:50] Invalid accelerometer data.
+[2024-10-22 1:32:51] Invalid accelerometer data.
+[2024-10-22 1:32:51] Invalid gyro data.
+[2024-10-22 1:32:52] Invalid accelerometer data.
+[2024-10-22 1:32:52] Invalid gyro data.
+[2024-10-22 1:32:53] Invalid gyro data.
+[2024-10-22 1:32:53] Invalid accelerometer data.
+[2024-10-22 1:32:54] Invalid gyro data.
+[2024-10-22 1:32:54] Invalid accelerometer data.
+[2024-10-22 1:32:55] Invalid gyro data.
+[2024-10-22 1:32:55] OBSTACLE DETECTED
+[2024-10-22 1:32:55] Invalid accelerometer data.
+[2024-10-22 1:32:56] Invalid gyro data.
+[2024-10-22 1:32:56] OBSTACLE DETECTED
+[2024-10-22 1:32:56] Invalid accelerometer data.
+[2024-10-22 1:32:57] Invalid accelerometer data.
+[2024-10-22 1:32:57] Invalid gyro data.
+[2024-10-22 1:32:58] Invalid gyro data.
+[2024-10-22 1:32:58] Invalid accelerometer data.
+[2024-10-22 1:32:59] Invalid gyro data.
+[2024-10-22 1:32:59] Invalid accelerometer data.
+[2024-10-22 1:33:0] Invalid gyro data.
+[2024-10-22 1:33:0] Invalid accelerometer data.
+[2024-10-22 1:33:1] Invalid gyro data.
+[2024-10-22 1:33:1] Invalid accelerometer data.
+[2024-10-22 1:33:2] Invalid accelerometer data.
+[2024-10-22 1:33:2] Invalid gyro data.
+[2024-10-22 1:33:2] OBSTACLE DETECTED
+[2024-10-22 1:33:3] Invalid gyro data.
+[2024-10-22 1:33:3] OBSTACLE DETECTED
+[2024-10-22 1:33:3] Invalid accelerometer data.
+[2024-10-22 1:33:4] Invalid gyro data.
+[2024-10-22 1:33:4] Invalid accelerometer data.
+[2024-10-22 1:33:5] Invalid gyro data.
+[2024-10-22 1:33:5] OBSTACLE DETECTED
+[2024-10-22 1:33:5] Invalid accelerometer data.
+[2024-10-22 1:33:6] Invalid accelerometer data.
+[2024-10-22 1:33:6] Invalid gyro data.
+[2024-10-22 1:33:7] Invalid gyro data.
+[2024-10-22 1:33:7] Invalid accelerometer data.
+[2024-10-22 1:33:8] OBSTACLE DETECTED
+[2024-10-22 1:33:8] Invalid accelerometer data.
+[2024-10-22 1:33:8] Invalid gyro data.
+[2024-10-22 1:33:9] Invalid gyro data.
+[2024-10-22 1:33:9] Invalid accelerometer data.
+[2024-10-22 1:33:10] Invalid gyro data.
+[2024-10-22 1:33:10] Invalid accelerometer data.
+[2024-10-22 1:33:11] Invalid gyro data.
+[2024-10-22 1:33:11] OBSTACLE DETECTED
+[2024-10-22 1:33:11] Invalid accelerometer data.
+[2024-10-22 1:33:12] OBSTACLE DETECTED
+[2024-10-22 1:33:12] Invalid gyro data.
+[2024-10-22 1:33:12] Invalid accelerometer data.
+[2024-10-22 1:33:13] Invalid gyro data.
+[2024-10-22 1:33:13] OBSTACLE DETECTED
+[2024-10-22 1:33:13] Invalid accelerometer data.
+[2024-10-22 1:33:14] Invalid gyro data.
+[2024-10-22 1:33:14] Invalid accelerometer data.
+[2024-10-22 1:33:15] OBSTACLE DETECTED
+[2024-10-22 1:33:15] Invalid gyro data.
+[2024-10-22 1:33:15] Invalid accelerometer data.
+[2024-10-22 1:33:16] Invalid gyro data.
+[2024-10-22 1:33:16] Invalid accelerometer data.
+[2024-10-22 1:33:17] OBSTACLE DETECTED
+[2024-10-22 1:33:17] Invalid accelerometer data.
+[2024-10-22 1:33:17] Invalid gyro data.
+[2024-10-22 1:33:18] Invalid gyro data.
+[2024-10-22 1:33:18] OBSTACLE DETECTED
+[2024-10-22 1:33:18] Invalid accelerometer data.
+[2024-10-22 1:33:19] OBSTACLE DETECTED
+[2024-10-22 1:33:19] Invalid gyro data.
+[2024-10-22 1:33:19] Invalid accelerometer data.
+[2024-10-22 1:33:20] Invalid gyro data.
+[2024-10-22 1:33:20] OBSTACLE DETECTED
+[2024-10-22 1:33:20] Invalid accelerometer data.
+[2024-10-22 1:33:21] Invalid gyro data.
+[2024-10-22 1:33:21] Invalid accelerometer data.
+[2024-10-22 1:33:22] Invalid gyro data.
+[2024-10-22 1:33:22] OBSTACLE DETECTED
+[2024-10-22 1:33:22] Invalid accelerometer data.
+[2024-10-22 1:33:23] Invalid accelerometer data.
+[2024-10-22 1:33:23] Invalid gyro data.
+[2024-10-22 1:33:24] Invalid gyro data.
+[2024-10-22 1:33:24] Invalid accelerometer data.
+[2024-10-22 1:33:25] Invalid gyro data.
+[2024-10-22 1:33:25] Invalid accelerometer data.
+[2024-10-22 1:33:25] OBSTACLE DETECTED
+[2024-10-22 1:33:26] Invalid accelerometer data.
+[2024-10-22 1:33:26] Invalid gyro data.
+[2024-10-22 1:33:26] OBSTACLE DETECTED
+[2024-10-22 1:33:27] Invalid gyro data.
+[2024-10-22 1:33:27] OBSTACLE DETECTED
+[2024-10-22 1:33:27] Invalid accelerometer data.
+[2024-10-22 1:33:28] OBSTACLE DETECTED
+[2024-10-22 1:33:28] Invalid gyro data.
+[2024-10-22 1:33:28] Invalid accelerometer data.
+[2024-10-22 1:33:29] Invalid gyro data.
+[2024-10-22 1:33:29] OBSTACLE DETECTED
+[2024-10-22 1:33:29] Invalid accelerometer data.
+[2024-10-22 1:33:30] OBSTACLE DETECTED
+[2024-10-22 1:33:30] Invalid accelerometer data.
+[2024-10-22 1:33:30] Invalid gyro data.
+[2024-10-22 1:33:31] Invalid gyro data.
+[2024-10-22 1:33:31] Invalid accelerometer data.
+[2024-10-22 1:33:32] OBSTACLE DETECTED
+[2024-10-22 1:33:32] Invalid accelerometer data.
+[2024-10-22 1:33:32] Invalid gyro data.
+[2024-10-22 1:33:33] Invalid gyro data.
+[2024-10-22 1:33:33] OBSTACLE DETECTED
+[2024-10-22 1:33:33] Invalid accelerometer data.
+[2024-10-22 1:33:34] Invalid accelerometer data.
+[2024-10-22 1:33:34] Invalid gyro data.
+[2024-10-22 1:33:35] Invalid gyro data.
+[2024-10-22 1:33:35] OBSTACLE DETECTED
+[2024-10-22 1:33:35] Invalid accelerometer data.
+[2024-10-22 1:33:36] Invalid accelerometer data.
+[2024-10-22 1:33:36] Invalid gyro data.
+[2024-10-22 1:33:37] Invalid accelerometer data.
+[2024-10-22 1:33:37] Invalid gyro data.
+[2024-10-22 1:33:38] Invalid accelerometer data.
+[2024-10-22 1:33:38] Invalid gyro data.
+[2024-10-22 1:33:39] OBSTACLE DETECTED
+[2024-10-22 1:33:39] Invalid gyro data.
+[2024-10-22 1:33:39] Invalid accelerometer data.
+[2024-10-22 1:33:40] Invalid gyro data.
+[2024-10-22 1:33:40] Invalid accelerometer data.
+[2024-10-22 1:33:41] Invalid gyro data.
+[2024-10-22 1:33:41] OBSTACLE DETECTED
+[2024-10-22 1:33:41] Invalid accelerometer data.
+[2024-10-22 1:33:42] Invalid accelerometer data.
+[2024-10-22 1:33:42] Invalid gyro data.
+[2024-10-22 1:33:42] OBSTACLE DETECTED
+[2024-10-22 1:33:43] Invalid gyro data.
+[2024-10-22 1:33:43] Invalid accelerometer data.
+[2024-10-22 1:33:44] Invalid accelerometer data.
+[2024-10-22 1:33:44] Invalid gyro data.
+[2024-10-22 1:33:45] OBSTACLE DETECTED
+[2024-10-22 1:33:45] Invalid accelerometer data.
+[2024-10-22 1:33:45] Invalid gyro data.
+[2024-10-22 1:33:46] Invalid gyro data.
+[2024-10-22 1:33:46] Invalid accelerometer data.
+[2024-10-22 1:33:47] Invalid gyro data.
+[2024-10-22 1:33:47] OBSTACLE DETECTED
+[2024-10-22 1:33:47] Invalid accelerometer data.
+[2024-10-22 1:33:48] Invalid accelerometer data.
+[2024-10-22 1:33:48] Invalid gyro data.
+[2024-10-22 1:33:49] Invalid gyro data.
+[2024-10-22 1:33:49] OBSTACLE DETECTED
+[2024-10-22 1:33:49] Invalid accelerometer data.
+[2024-10-22 1:33:50] Invalid accelerometer data.
+[2024-10-22 1:33:50] Invalid gyro data.
+[2024-10-22 1:33:51] Invalid accelerometer data.
+[2024-10-22 1:33:51] Invalid gyro data.
+[2024-10-22 1:33:52] Invalid gyro data.
+[2024-10-22 1:33:52] Invalid accelerometer data.
+[2024-10-22 1:33:53] Invalid gyro data.
+[2024-10-22 1:33:53] Invalid accelerometer data.
+[2024-10-22 1:33:54] Invalid accelerometer data.
+[2024-10-22 1:33:54] Invalid gyro data.
+[2024-10-22 1:33:55] OBSTACLE DETECTED
+[2024-10-22 1:33:55] Invalid gyro data.
+[2024-10-22 1:33:55] Invalid accelerometer data.
+[2024-10-22 1:33:56] Invalid gyro data.
+[2024-10-22 1:33:56] Invalid accelerometer data.
+[2024-10-22 1:33:57] Invalid gyro data.
+[2024-10-22 1:33:57] Invalid accelerometer data.
+[2024-10-22 1:33:58] Invalid gyro data.
+[2024-10-22 1:33:58] Invalid accelerometer data.
+[2024-10-22 1:33:59] Invalid gyro data.
+[2024-10-22 1:33:59] OBSTACLE DETECTED
+[2024-10-22 1:33:59] Invalid accelerometer data.
+[2024-10-22 1:34:17] Received gyro data.
+[2024-10-22 1:34:17] Invalid accelerometer data.
+[2024-10-22 1:34:18] Received gyro data.
+[2024-10-22 1:34:18] Invalid accelerometer data.
+[2024-10-22 1:34:18] OBSTACLE DETECTED
+[2024-10-22 1:34:19] Received gyro data.
+[2024-10-22 1:34:19] Invalid accelerometer data.
+[2024-10-22 1:34:20] Received gyro data.
+[2024-10-22 1:34:20] Invalid accelerometer data.
+[2024-10-22 1:34:20] OBSTACLE DETECTED
+[2024-10-22 1:34:21] Received gyro data.
+[2024-10-22 1:34:21] Invalid accelerometer data.
+[2024-10-22 1:34:21] OBSTACLE DETECTED
+[2024-10-22 1:34:22] Received gyro data.
+[2024-10-22 1:34:22] Invalid accelerometer data.
+[2024-10-22 1:34:22] OBSTACLE DETECTED
+[2024-10-22 1:34:23] Received gyro data.
+[2024-10-22 1:34:23] Invalid accelerometer data.
+[2024-10-22 1:34:23] OBSTACLE DETECTED
+[2024-10-22 1:34:24] Received gyro data.
+[2024-10-22 1:34:24] Invalid accelerometer data.
+[2024-10-22 1:34:25] Received gyro data.
+[2024-10-22 1:34:25] Invalid accelerometer data.
+[2024-10-22 1:34:25] OBSTACLE DETECTED
+[2024-10-22 1:34:26] Received gyro data.
+[2024-10-22 1:34:26] Invalid accelerometer data.
+[2024-10-22 1:34:26] OBSTACLE DETECTED
+[2024-10-22 1:34:27] Received gyro data.
+[2024-10-22 1:34:27] Invalid accelerometer data.
+[2024-10-22 1:34:28] Received gyro data.
+[2024-10-22 1:34:28] Invalid accelerometer data.
+[2024-10-22 1:34:28] OBSTACLE DETECTED
+[2024-10-22 1:42:51] Received accelerometer data.
+[2024-10-22 1:42:51] Received gyro data.
+[2024-10-22 1:42:52] Received accelerometer data.
+[2024-10-22 1:42:52] Received gyro data.
+[2024-10-22 1:42:52] OBSTACLE DETECTED
+[2024-10-22 1:42:53] Received accelerometer data.
+[2024-10-22 1:42:53] Received gyro data.
+[2024-10-22 1:42:54] Received accelerometer data.
+[2024-10-22 1:42:54] Received gyro data.
+[2024-10-22 1:42:54] OBSTACLE DETECTED
+[2024-10-22 1:42:55] Received accelerometer data.
+[2024-10-22 1:42:55] Received gyro data.
+[2024-10-22 1:42:55] OBSTACLE DETECTED
+[2024-10-22 1:42:56] Received accelerometer data.
+[2024-10-22 1:42:56] Received gyro data.
+[2024-10-22 1:42:56] OBSTACLE DETECTED
+[2024-10-22 1:42:57] Received accelerometer data.
+[2024-10-22 1:42:57] Received gyro data.
+[2024-10-22 1:42:57] OBSTACLE DETECTED
+[2024-10-22 1:42:58] Received accelerometer data.
+[2024-10-22 1:42:58] Received gyro data.
+[2024-10-22 1:42:59] Received accelerometer data.
+[2024-10-22 1:42:59] Received gyro data.
+[2024-10-22 1:42:59] OBSTACLE DETECTED
+[2024-10-22 1:43:0] Received accelerometer data.
+[2024-10-22 1:43:0] Received gyro data.
+[2024-10-22 1:43:0] OBSTACLE DETECTED
+[2024-10-22 1:43:1] Received accelerometer data.
+[2024-10-22 1:43:1] Received gyro data.
+[2024-10-22 1:43:2] Received accelerometer data.
+[2024-10-22 1:43:2] Received gyro data.
+[2024-10-22 1:43:2] OBSTACLE DETECTED
+[2024-10-22 1:43:3] Received accelerometer data.
+[2024-10-22 1:43:3] Received gyro data.
+[2024-10-22 1:43:3] OBSTACLE DETECTED
+[2024-10-22 1:43:4] Received accelerometer data.
+[2024-10-22 1:43:4] Received gyro data.
+[2024-10-22 1:43:5] Received accelerometer data.
+[2024-10-22 1:43:5] Received gyro data.
+[2024-10-22 1:43:6] Received accelerometer data.
+[2024-10-22 1:43:6] Received gyro data.
+[2024-10-22 1:43:6] OBSTACLE DETECTED
+[2024-10-22 1:43:7] Received accelerometer data.
+[2024-10-22 1:43:7] Received gyro data.
+[2024-10-22 1:43:7] OBSTACLE DETECTED
+[2024-10-22 1:43:8] Received accelerometer data.
+[2024-10-22 1:43:8] Received gyro data.
+[2024-10-22 1:43:8] OBSTACLE DETECTED
+[2024-10-22 1:43:9] Received accelerometer data.
+[2024-10-22 1:43:9] Received gyro data.
+[2024-10-22 1:43:9] OBSTACLE DETECTED
+[2024-10-22 1:43:10] Received accelerometer data.
+[2024-10-22 1:43:10] Received gyro data.
+[2024-10-22 1:43:10] OBSTACLE DETECTED
+[2024-10-22 1:43:12] Received gyro data.
+[2024-10-22 1:43:12] Received accelerometer data.
+[2024-10-22 1:43:12] Received accelerometer data.
+[2024-10-22 1:43:12] Received gyro data.
+[2024-10-22 1:43:12] OBSTACLE DETECTED
+[2024-10-22 1:43:13] Received accelerometer data.
+[2024-10-22 1:43:13] Received gyro data.
+[2024-10-22 1:43:13] OBSTACLE DETECTED
+[2024-10-22 1:43:14] Received accelerometer data.
+[2024-10-22 1:43:14] Received gyro data.
+[2024-10-22 1:43:15] Received accelerometer data.
+[2024-10-22 1:43:15] Received gyro data.
+[2024-10-22 1:43:15] OBSTACLE DETECTED
+[2024-10-22 1:43:16] Received accelerometer data.
+[2024-10-22 1:43:16] Received gyro data.
+[2024-10-22 1:43:17] Received accelerometer data.
+[2024-10-22 1:43:17] Received gyro data.
+[2024-10-22 1:43:18] Received accelerometer data.
+[2024-10-22 1:43:18] Received gyro data.
+[2024-10-22 1:43:18] OBSTACLE DETECTED
+[2024-10-22 1:43:19] Received accelerometer data.
+[2024-10-22 1:43:19] Received gyro data.
+[2024-10-22 1:43:19] OBSTACLE DETECTED
+[2024-10-22 1:43:20] Received accelerometer data.
+[2024-10-22 1:43:20] Received gyro data.
+[2024-10-22 1:43:21] Received accelerometer data.
+[2024-10-22 1:43:21] Received gyro data.
+[2024-10-22 1:43:22] Received accelerometer data.
+[2024-10-22 1:43:22] Received gyro data.
+[2024-10-22 1:43:23] Received accelerometer data.
+[2024-10-22 1:43:23] Received gyro data.
+[2024-10-22 1:43:24] Received accelerometer data.
+[2024-10-22 1:43:24] Received gyro data.
+[2024-10-22 1:43:25] Received accelerometer data.
+[2024-10-22 1:43:25] Received gyro data.
+[2024-10-22 1:43:25] OBSTACLE DETECTED
+[2024-10-22 1:43:26] Received accelerometer data.
+[2024-10-22 1:43:26] Received gyro data.
+[2024-10-22 1:43:26] OBSTACLE DETECTED
+[2024-10-22 1:43:27] Received accelerometer data.
+[2024-10-22 1:43:27] Received gyro data.
+[2024-10-22 1:43:28] Received accelerometer data.
+[2024-10-22 1:43:28] Received gyro data.
+[2024-10-22 1:43:28] OBSTACLE DETECTED
+[2024-10-22 1:43:29] Received accelerometer data.
+[2024-10-22 1:43:29] Received gyro data.
+[2024-10-22 1:43:30] Received accelerometer data.
+[2024-10-22 1:43:30] Received gyro data.
+[2024-10-22 1:43:31] Received accelerometer data.
+[2024-10-22 1:43:31] Received gyro data.
+[2024-10-22 1:43:32] Received accelerometer data.
+[2024-10-22 1:43:32] Received gyro data.
+[2024-10-22 1:43:33] Received accelerometer data.
+[2024-10-22 1:43:33] Received gyro data.
+[2024-10-22 1:43:34] Received accelerometer data.
+[2024-10-22 1:43:34] Received gyro data.
+[2024-10-22 1:43:34] OBSTACLE DETECTED
+[2024-10-22 1:43:35] Received accelerometer data.
+[2024-10-22 1:43:35] Received gyro data.
+[2024-10-22 1:43:35] OBSTACLE DETECTED
+[2024-10-22 1:43:36] Received accelerometer data.
+[2024-10-22 1:43:36] Received gyro data.
+[2024-10-22 1:43:37] Received accelerometer data.
+[2024-10-22 1:43:37] Received gyro data.
+[2024-10-22 1:43:38] Received accelerometer data.
+[2024-10-22 1:43:38] Received gyro data.
+[2024-10-22 1:43:39] Received accelerometer data.
+[2024-10-22 1:43:39] Received gyro data.
+[2024-10-22 1:43:40] Received accelerometer data.
+[2024-10-22 1:43:40] Received gyro data.
+[2024-10-22 1:43:41] Received accelerometer data.
+[2024-10-22 1:43:41] Received gyro data.
+[2024-10-22 1:43:41] OBSTACLE DETECTED
+[2024-10-22 1:43:42] Received accelerometer data.
+[2024-10-22 1:43:42] Received gyro data.
+[2024-10-22 1:43:42] OBSTACLE DETECTED
+[2024-10-22 1:43:43] Received accelerometer data.
+[2024-10-22 1:43:43] Received gyro data.
+[2024-10-22 1:43:44] Received accelerometer data.
+[2024-10-22 1:43:44] Received gyro data.
+[2024-10-22 1:43:44] OBSTACLE DETECTED
+[2024-10-22 1:43:45] Received accelerometer data.
+[2024-10-22 1:43:45] Received gyro data.
+[2024-10-22 1:43:46] Received accelerometer data.
+[2024-10-22 1:43:46] Received gyro data.
+[2024-10-22 1:43:47] Received accelerometer data.
+[2024-10-22 1:43:47] Received gyro data.
+[2024-10-22 1:43:47] OBSTACLE DETECTED
+[2024-10-22 1:43:48] BRAKE applied by manual command.
+[2024-10-22 1:43:48] STOPPED due to obstacle and manual stop.
+[2024-10-22 1:43:56] Forward command received.
+[2024-10-22 1:43:56] Received accelerometer data.
+[2024-10-22 1:43:56] Received gyro data.
+[2024-10-22 1:43:57] Received accelerometer data.
+[2024-10-22 1:43:57] Received gyro data.
+[2024-10-22 1:43:58] Received accelerometer data.
+[2024-10-22 1:43:58] Received gyro data.
+[2024-10-22 1:43:58] OBSTACLE DETECTED
+[2024-10-22 1:43:59] Received accelerometer data.
+[2024-10-22 1:43:59] Received gyro data.
+[2024-10-22 1:43:59] OBSTACLE DETECTED
+[2024-10-22 1:44:0] Received accelerometer data.
+[2024-10-22 1:44:0] Received gyro data.
+[2024-10-22 1:44:0] OBSTACLE DETECTED
+[2024-10-22 1:44:1] Received accelerometer data.
+[2024-10-22 1:44:1] Received gyro data.
+[2024-10-22 1:44:2] Received accelerometer data.
+[2024-10-22 1:44:2] Received gyro data.
+[2024-10-22 1:44:2] OBSTACLE DETECTED
+[2024-10-22 1:44:3] Received accelerometer data.
+[2024-10-22 1:44:3] Received gyro data.
+[2024-10-22 1:44:4] Received accelerometer data.
+[2024-10-22 1:44:4] Received gyro data.
+[2024-10-22 1:44:4] OBSTACLE DETECTED
+[2024-10-22 1:44:5] Received accelerometer data.
+[2024-10-22 1:44:5] Received gyro data.
+[2024-10-22 1:44:5] OBSTACLE DETECTED
+[2024-10-22 1:44:6] Received accelerometer data.
+[2024-10-22 1:44:6] Received gyro data.
+[2024-10-22 1:44:6] OBSTACLE DETECTED
+[2024-10-22 1:44:7] Received accelerometer data.
+[2024-10-22 1:44:7] Received gyro data.
+[2024-10-22 1:44:7] OBSTACLE DETECTED
+[2024-10-22 1:44:8] Received accelerometer data.
+[2024-10-22 1:44:8] Received gyro data.
+[2024-10-22 1:44:9] Received accelerometer data.
+[2024-10-22 1:44:9] Received gyro data.
+[2024-10-22 1:44:9] OBSTACLE DETECTED
+[2024-10-22 1:44:10] Received accelerometer data.
+[2024-10-22 1:44:10] Received gyro data.
+[2024-10-22 1:44:11] Received accelerometer data.
+[2024-10-22 1:44:11] Received gyro data.
+[2024-10-22 1:44:12] Received accelerometer data.
+[2024-10-22 1:44:12] Received gyro data.
+[2024-10-22 1:44:12] OBSTACLE DETECTED
+[2024-10-22 1:44:13] Received accelerometer data.
+[2024-10-22 1:44:13] Received gyro data.
+[2024-10-22 1:44:13] OBSTACLE DETECTED
+[2024-10-22 1:44:14] Received accelerometer data.
+[2024-10-22 1:44:14] Received gyro data.
+[2024-10-22 1:44:14] OBSTACLE DETECTED
+[2024-10-22 1:44:15] Received accelerometer data.
+[2024-10-22 1:44:15] Received gyro data.
+[2024-10-22 1:44:15] OBSTACLE DETECTED
+[2024-10-22 1:44:16] Received accelerometer data.
+[2024-10-22 1:44:16] Received gyro data.
+[2024-10-22 1:44:16] OBSTACLE DETECTED
+[2024-10-22 1:44:17] Received accelerometer data.
+[2024-10-22 1:44:17] Received gyro data.
+[2024-10-22 1:44:17] OBSTACLE DETECTED
+[2024-10-22 1:44:18] Received accelerometer data.
+[2024-10-22 1:44:18] Received gyro data.
+[2024-10-22 1:44:19] Received accelerometer data.
+[2024-10-22 1:44:19] Received gyro data.
+[2024-10-22 1:44:19] OBSTACLE DETECTED
+[2024-10-22 1:44:20] Received accelerometer data.
+[2024-10-22 1:44:20] Received gyro data.
+[2024-10-22 1:44:20] OBSTACLE DETECTED
+[2024-10-22 1:44:21] Received accelerometer data.
+[2024-10-22 1:44:21] Received gyro data.
+[2024-10-22 1:44:22] Received accelerometer data.
+[2024-10-22 1:44:22] Received gyro data.
+[2024-10-22 1:44:22] OBSTACLE DETECTED
+[2024-10-22 1:44:23] Received accelerometer data.
+[2024-10-22 1:44:23] Received gyro data.
+[2024-10-22 1:44:24] Received accelerometer data.
+[2024-10-22 1:44:24] Received gyro data.
+[2024-10-22 1:44:25] Received accelerometer data.
+[2024-10-22 1:44:25] Received gyro data.
+[2024-10-22 1:44:26] Received accelerometer data.
+[2024-10-22 1:44:26] Received gyro data.
+[2024-10-22 1:44:26] OBSTACLE DETECTED
+[2024-10-22 1:44:27] Received accelerometer data.
+[2024-10-22 1:44:27] Received gyro data.
+[2024-10-22 1:44:28] Received accelerometer data.
+[2024-10-22 1:44:28] Received gyro data.
+[2024-10-22 1:44:28] OBSTACLE DETECTED
+[2024-10-22 1:44:29] Received accelerometer data.
+[2024-10-22 1:44:29] Received gyro data.
+[2024-10-22 1:44:29] OBSTACLE DETECTED
+[2024-10-22 1:44:30] Received accelerometer data.
+[2024-10-22 1:44:30] Received gyro data.
+[2024-10-22 1:44:31] Received accelerometer data.
+[2024-10-22 1:44:31] Received gyro data.
+[2024-10-22 1:44:32] Received accelerometer data.
+[2024-10-22 1:44:32] Received gyro data.
+[2024-10-22 1:44:32] OBSTACLE DETECTED
+[2024-10-22 1:44:33] Received accelerometer data.
+[2024-10-22 1:44:33] Received gyro data.
+[2024-10-22 1:44:34] Received accelerometer data.
+[2024-10-22 1:44:34] Received gyro data.
+[2024-10-22 1:44:34] OBSTACLE DETECTED
+[2024-10-22 1:44:35] Received accelerometer data.
+[2024-10-22 1:44:35] Received gyro data.
+[2024-10-22 1:44:36] Received accelerometer data.
+[2024-10-22 1:44:36] Received gyro data.
+[2024-10-22 1:44:36] OBSTACLE DETECTED
+[2024-10-22 1:44:37] Received accelerometer data.
+[2024-10-22 1:44:37] Received gyro data.
+[2024-10-22 1:44:38] Received accelerometer data.
+[2024-10-22 1:44:38] Received gyro data.
+[2024-10-22 1:44:39] Received accelerometer data.
+[2024-10-22 1:44:39] Received gyro data.
+[2024-10-22 1:44:40] Received accelerometer data.
+[2024-10-22 1:44:40] Received gyro data.
+[2024-10-22 1:44:41] Received accelerometer data.
+[2024-10-22 1:44:41] Received gyro data.
+[2024-10-22 1:44:42] Received accelerometer data.
+[2024-10-22 1:44:42] Received gyro data.
+[2024-10-22 1:44:42] OBSTACLE DETECTED
+[2024-10-22 1:44:51] Received accelerometer data.
+[2024-10-22 1:44:51] Received gyro data.
+[2024-10-22 1:44:52] Received accelerometer data.
+[2024-10-22 1:44:52] OBSTACLE DETECTED
+[2024-10-22 1:44:52] Received gyro data.
+[2024-10-22 1:44:53] Received accelerometer data.
+[2024-10-22 1:44:53] Received gyro data.
+[2024-10-22 1:44:54] Received accelerometer data.
+[2024-10-22 1:44:54] OBSTACLE DETECTED
+[2024-10-22 1:44:54] Received gyro data.
+[2024-10-22 1:44:55] Received accelerometer data.
+[2024-10-22 1:44:55] OBSTACLE DETECTED
+[2024-10-22 1:44:55] Received gyro data.
+[2024-10-22 1:44:56] Received accelerometer data.
+[2024-10-22 1:44:56] OBSTACLE DETECTED
+[2024-10-22 1:44:56] Received gyro data.
+[2024-10-22 1:44:57] Received accelerometer data.
+[2024-10-22 1:44:57] Received gyro data.
+[2024-10-22 1:44:57] OBSTACLE DETECTED
+[2024-10-22 1:44:58] Received accelerometer data.
+[2024-10-22 1:44:58] Received gyro data.
+[2024-10-22 1:44:59] Received accelerometer data.
+[2024-10-22 1:44:59] OBSTACLE DETECTED
+[2024-10-22 1:44:59] Received gyro data.
+[2024-10-22 1:45:0] Received accelerometer data.
+[2024-10-22 1:45:0] OBSTACLE DETECTED
+[2024-10-22 1:45:0] Received gyro data.
+[2024-10-22 1:45:1] Received accelerometer data.
+[2024-10-22 1:45:1] Received gyro data.
+[2024-10-22 1:45:2] Received accelerometer data.
+[2024-10-22 1:45:2] OBSTACLE DETECTED
+[2024-10-22 1:45:2] Received gyro data.
+[2024-10-22 1:45:3] Received accelerometer data.
+[2024-10-22 1:45:3] OBSTACLE DETECTED
+[2024-10-22 1:45:3] Received gyro data.
+[2024-10-22 1:45:4] Received accelerometer data.
+[2024-10-22 1:45:4] Received gyro data.
+[2024-10-22 1:45:5] Received accelerometer data.
+[2024-10-22 1:45:5] Received gyro data.
+[2024-10-22 1:45:6] Received accelerometer data.
+[2024-10-22 1:45:6] OBSTACLE DETECTED
+[2024-10-22 1:45:6] Received gyro data.
+[2024-10-22 1:45:7] Received accelerometer data.
+[2024-10-22 1:45:7] Received gyro data.
+[2024-10-22 1:45:7] OBSTACLE DETECTED
+[2024-10-22 1:45:8] Received accelerometer data.
+[2024-10-22 1:45:8] OBSTACLE DETECTED
+[2024-10-22 1:45:8] Received gyro data.
+[2024-10-22 1:45:9] Received accelerometer data.
+[2024-10-22 1:45:9] OBSTACLE DETECTED
+[2024-10-22 1:45:9] Received gyro data.
+[2024-10-22 1:45:10] Received accelerometer data.
+[2024-10-22 1:45:10] OBSTACLE DETECTED
+[2024-10-22 1:45:10] Received gyro data.
+[2024-10-22 1:45:11] Received accelerometer data.
+[2024-10-22 1:45:11] Received gyro data.
+[2024-10-22 1:45:12] Received accelerometer data.
+[2024-10-22 1:45:12] OBSTACLE DETECTED
+[2024-10-22 1:45:12] Received gyro data.
+[2024-10-22 1:45:13] Received accelerometer data.
+[2024-10-22 1:45:13] Received gyro data.
+[2024-10-22 1:45:13] OBSTACLE DETECTED
+[2024-10-22 1:45:14] Received accelerometer data.
+[2024-10-22 1:45:14] Received gyro data.
+[2024-10-22 1:45:15] Received accelerometer data.
+[2024-10-22 1:45:15] OBSTACLE DETECTED
+[2024-10-22 1:45:15] Received gyro data.
+[2024-10-22 1:45:16] Received accelerometer data.
+[2024-10-22 1:45:16] Received gyro data.
+[2024-10-22 1:45:17] Received accelerometer data.
+[2024-10-22 1:45:17] Received gyro data.
+[2024-10-22 1:45:18] Received accelerometer data.
+[2024-10-22 1:45:18] OBSTACLE DETECTED
+[2024-10-22 1:45:18] Received gyro data.
+[2024-10-22 1:45:19] Received accelerometer data.
+[2024-10-22 1:45:19] Received gyro data.
+[2024-10-22 1:45:19] OBSTACLE DETECTED
+[2024-10-22 1:45:20] Received accelerometer data.
+[2024-10-22 1:45:20] Received gyro data.
+[2024-10-22 1:45:21] Received accelerometer data.
+[2024-10-22 1:45:21] Received gyro data.
+[2024-10-22 1:45:22] Received accelerometer data.
+[2024-10-22 1:45:22] Received gyro data.
+[2024-10-22 1:45:23] Received accelerometer data.
+[2024-10-22 1:45:23] Received gyro data.
+[2024-10-22 1:45:24] Received accelerometer data.
+[2024-10-22 1:45:24] Received gyro data.
+[2024-10-22 1:45:25] Received accelerometer data.
+[2024-10-22 1:45:25] Received gyro data.
+[2024-10-22 1:45:25] OBSTACLE DETECTED
+[2024-10-22 1:45:26] Received accelerometer data.
+[2024-10-22 1:45:26] OBSTACLE DETECTED
+[2024-10-22 1:45:26] Received gyro data.
+[2024-10-22 1:45:27] Received accelerometer data.
+[2024-10-22 1:45:27] Received gyro data.
+[2024-10-22 1:45:28] Received accelerometer data.
+[2024-10-22 1:45:28] OBSTACLE DETECTED
+[2024-10-22 1:45:28] Received gyro data.
+[2024-10-22 1:45:29] Received accelerometer data.
+[2024-10-22 1:45:29] Received gyro data.
+[2024-10-22 1:45:30] Received accelerometer data.
+[2024-10-22 1:45:30] Received gyro data.
+[2024-10-22 1:45:31] Received accelerometer data.
+[2024-10-22 1:45:31] Received gyro data.
+[2024-10-22 1:45:32] Received accelerometer data.
+[2024-10-22 1:45:32] Received gyro data.
+[2024-10-22 1:45:33] Received accelerometer data.
+[2024-10-22 1:45:33] Received gyro data.
+[2024-10-22 1:45:34] Received accelerometer data.
+[2024-10-22 1:45:34] OBSTACLE DETECTED
+[2024-10-22 1:45:34] Received gyro data.
+[2024-10-22 1:45:35] Received accelerometer data.
+[2024-10-22 1:45:35] OBSTACLE DETECTED
+[2024-10-22 1:45:35] Received gyro data.
+[2024-10-22 1:45:36] Received accelerometer data.
+[2024-10-22 1:45:36] Received gyro data.
+[2024-10-22 1:45:37] Received accelerometer data.
+[2024-10-22 1:45:37] Received gyro data.
+[2024-10-22 1:45:38] Received accelerometer data.
+[2024-10-22 1:45:38] Received gyro data.
+[2024-10-22 1:45:39] Received accelerometer data.
+[2024-10-22 1:45:39] Received gyro data.
+[2024-10-22 1:45:40] Received accelerometer data.
+[2024-10-22 1:45:40] Received gyro data.
+[2024-10-22 1:45:41] Received accelerometer data.
+[2024-10-22 1:45:41] OBSTACLE DETECTED
+[2024-10-22 1:45:41] Received gyro data.
+[2024-10-22 1:45:42] Received accelerometer data.
+[2024-10-22 1:45:42] OBSTACLE DETECTED
+[2024-10-22 1:45:42] Received gyro data.
+[2024-10-22 1:45:43] Received accelerometer data.
+[2024-10-22 1:45:43] Received gyro data.
+[2024-10-22 1:45:44] Received accelerometer data.
+[2024-10-22 1:45:44] OBSTACLE DETECTED
+[2024-10-22 1:45:44] Received gyro data.
+[2024-10-22 1:45:45] Received accelerometer data.
+[2024-10-22 1:45:45] Received gyro data.
+[2024-10-22 1:45:46] Received accelerometer data.
+[2024-10-22 1:45:46] Received gyro data.
+[2024-10-22 1:45:47] Received accelerometer data.
+[2024-10-22 1:45:47] OBSTACLE DETECTED
+[2024-10-22 1:45:47] Received gyro data.
+[2024-10-22 1:45:48] Received accelerometer data.
+[2024-10-22 1:45:48] Received gyro data.
+[2024-10-22 1:45:49] Received accelerometer data.
+[2024-10-22 1:45:49] Received gyro data.
+[2024-10-22 1:45:50] Received accelerometer data.
+[2024-10-22 1:45:50] OBSTACLE DETECTED
+[2024-10-22 1:45:50] Received gyro data.
+[2024-10-22 1:45:51] Received accelerometer data.
+[2024-10-22 1:45:51] OBSTACLE DETECTED
+[2024-10-22 1:45:51] Received gyro data.
+[2024-10-22 1:45:52] Received accelerometer data.
+[2024-10-22 1:45:52] OBSTACLE DETECTED
+[2024-10-22 1:45:52] Received gyro data.
+[2024-10-22 1:45:53] Received accelerometer data.
+[2024-10-22 1:45:53] Received gyro data.
+[2024-10-22 1:45:54] Received accelerometer data.
+[2024-10-22 1:45:54] OBSTACLE DETECTED
+[2024-10-22 1:45:54] Received gyro data.
+[2024-10-22 1:45:55] Received accelerometer data.
+[2024-10-22 1:45:55] Received gyro data.
+[2024-10-22 1:45:56] Received accelerometer data.
+[2024-10-22 1:45:56] OBSTACLE DETECTED
+[2024-10-22 1:45:56] Received gyro data.
+[2024-10-22 1:45:57] Received accelerometer data.
+[2024-10-22 1:45:57] OBSTACLE DETECTED
+[2024-10-22 1:45:57] Received gyro data.
+[2024-10-22 1:45:58] Received accelerometer data.
+[2024-10-22 1:45:58] OBSTACLE DETECTED
+[2024-10-22 1:45:58] Received gyro data.
+[2024-10-22 1:45:59] Received accelerometer data.
+[2024-10-22 1:45:59] OBSTACLE DETECTED
+[2024-10-22 1:45:59] Received gyro data.
+[2024-10-22 1:46:0] Received accelerometer data.
+[2024-10-22 1:46:0] Received gyro data.
+[2024-10-22 1:46:1] Received accelerometer data.
+[2024-10-22 1:46:1] OBSTACLE DETECTED
+[2024-10-22 1:46:1] Received gyro data.
+[2024-10-22 1:46:2] Received accelerometer data.
+[2024-10-22 1:46:2] Received gyro data.
+[2024-10-22 1:46:3] Received accelerometer data.
+[2024-10-22 1:46:3] Received gyro data.
+[2024-10-22 1:46:4] Received accelerometer data.
+[2024-10-22 1:46:4] OBSTACLE DETECTED
+[2024-10-22 1:46:4] Received gyro data.
+[2024-10-22 1:46:5] Received accelerometer data.
+[2024-10-22 1:46:5] OBSTACLE DETECTED
+[2024-10-22 1:46:5] Received gyro data.
+[2024-10-22 1:46:6] Received accelerometer data.
+[2024-10-22 1:46:6] OBSTACLE DETECTED
+[2024-10-22 1:46:6] Received gyro data.
+[2024-10-22 1:46:7] Received accelerometer data.
+[2024-10-22 1:46:7] OBSTACLE DETECTED
+[2024-10-22 1:46:7] Received gyro data.
+[2024-10-22 1:46:8] Received accelerometer data.
+[2024-10-22 1:46:8] OBSTACLE DETECTED
+[2024-10-22 1:46:8] Received gyro data.
+[2024-10-22 1:46:9] Received accelerometer data.
+[2024-10-22 1:46:9] OBSTACLE DETECTED
+[2024-10-22 1:46:9] Received gyro data.
+[2024-10-22 1:46:10] Received accelerometer data.
+[2024-10-22 1:46:10] Received gyro data.
+[2024-10-22 1:46:11] Received accelerometer data.
+[2024-10-22 1:46:11] OBSTACLE DETECTED
+[2024-10-22 1:46:11] Received gyro data.
